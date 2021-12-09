@@ -1,1 +1,1 @@
-# G18
+# Portuguese Banking Logistic Regression
